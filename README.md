@@ -1,2 +1,2 @@
-# mathweb
+# MathWeb
 An web calculator.
