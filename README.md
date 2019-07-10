@@ -1,2 +1,2 @@
 # MathWeb
-An web calculator.
+A web calculator.
